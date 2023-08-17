@@ -17,7 +17,7 @@ python ocr_img_generator.py
 
 ## Example with tesseract
 ``` bash
-python ocr_img_generator.py 
+python ocr_accuracy.py 
 ```
 output (10 files generated):
 
